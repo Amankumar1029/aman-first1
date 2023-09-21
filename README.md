@@ -1,2 +1,4 @@
 # aman-first1
-Tis his my first repository. 
+This is my first repository. 
+<br>
+I am a hardworking student.
